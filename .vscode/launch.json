@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "arrayFunction",
+            "request": "launch",
+            "mainClass": "arrayFunction",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_2D_Traverse",
+            "request": "launch",
+            "mainClass": "array_2D_Traverse",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_binarySearch",
+            "request": "launch",
+            "mainClass": "array_binarySearch",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_buysellStocks",
+            "request": "launch",
+            "mainClass": "array_buysellStocks",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_maxsubarray2",
+            "request": "launch",
+            "mainClass": "array_maxsubarray2",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_maxsubarray3",
+            "request": "launch",
+            "mainClass": "array_maxsubarray3",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_pairing",
+            "request": "launch",
+            "mainClass": "array_pairing",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_problem",
+            "request": "launch",
+            "mainClass": "array_problem",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "array_trappingWater",
+            "request": "launch",
+            "mainClass": "array_trappingWater",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "binToDec",
+            "request": "launch",
+            "mainClass": "binToDec",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "binomialCoefficient",
+            "request": "launch",
+            "mainClass": "binomialCoefficient",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "count_even_odd",
+            "request": "launch",
+            "mainClass": "count_even_odd",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "decToBin",
+            "request": "launch",
+            "mainClass": "decToBin",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "isprime",
+            "request": "launch",
+            "mainClass": "isprime",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "numberReverse",
+            "request": "launch",
+            "mainClass": "numberReverse",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "alpha_978c1877"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "alpha_978c1877"
+        }
+    ]
+}
